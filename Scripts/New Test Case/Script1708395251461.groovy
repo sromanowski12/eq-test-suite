@@ -17,25 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://mingle-portal.inforcloudsuite.com/KINRO_TST?Identity=Mingle')
-
-WebUI.setText(findTestObject('Page_Infor CloudIdentities - Sign In/input_Username_username'), 'sromanowski@lci1.com')
-
-WebUI.setEncryptedText(findTestObject('Page_Infor CloudIdentities - Sign In/input_Password_pass'), 'VCJAGvRPL32rAH9ErxswkbUpa0/gezy0')
-
-WebUI.sendKeys(findTestObject('Page_Infor CloudIdentities - Sign In/input_Password_pass'), Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Page_Enterprise Quoting/a_New Quote'))
-
-WebUI.click(findTestObject('Object Repository/Page_Enterprise Quoting/span_Select Customer'))
-
-WebUI.click(findTestObject('Page_Enterprise Quoting/span_Select_ARE'))
-
-WebUI.click(findTestObject('Page_Enterprise Quoting/span_Add Items'))
-
-WebUI.setText(findTestObject('Page_Enterprise Quoting/input_DQ002541-1  0 Line (s)_v-field-value - Copy'), 'picture')
-
-WebUI.sendKeys(findTestObject('Page_Enterprise Quoting/input_DQ002541-1  0 Line (s)_v-field-value - Copy'), Keys.chord(Keys.ENTER))
-

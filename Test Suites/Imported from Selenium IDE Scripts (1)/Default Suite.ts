@@ -4,6 +4,7 @@
    <name>Default Suite</name>
    <tag></tag>
    <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>0</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
@@ -14,7 +15,7 @@
       <guid>8bfdbc9a-b70d-4a38-96ca-d02237f0ef37</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Imported from Selenium IDE Scripts (1)/Default Suite/Direct Quote - Select Customer (TST)</testCaseId>
+      <testCaseId>Test Cases/New Quote TST</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

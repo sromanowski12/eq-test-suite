@@ -17,53 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.click(findTestObject('null'))
 
-WebUI.navigateToUrl('https://mingle-portal.inforcloudsuite.com/KINRO_TST?Identity=Mingle')
-
-WebUI.click(findTestObject('Object Repository/Page_Infor CloudIdentities - Sign In/input_Username_username'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Infor CloudIdentities - Sign In/input_Username_username'), 'sromanowski@lci1.com')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Infor CloudIdentities - Sign In/input_Password_pass'), 'VCJAGvRPL32rAH9ErxswkbUpa0/gezy0')
-
-WebUI.sendKeys(findTestObject('Object Repository/Page_Infor CloudIdentities - Sign In/input_Password_pass'), Keys.chord(
-        Keys.ENTER))
-
-WebUI.click(findTestObject('Object Repository/Page_Enterprise Quoting/a_New Quote'))
-
-WebUI.click(findTestObject('Object Repository/Page_Enterprise Quoting/span_Select Customer'))
-
-WebUI.click(findTestObject('Page_Enterprise Quoting/span_Select_ARE'))
-
-WebUI.click(findTestObject('Object Repository/Page_Enterprise Quoting/span_Add Items'))
-
-WebUI.setText(findTestObject('Page_Enterprise Quoting/input_DQ002541-1  0 Line (s)_v-field-value'), 'picture', FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.sendKeys(findTestObject('Page_Enterprise Quoting/input_DQ002541-1  0 Line (s)_v-field-value'), Keys.chord(Keys.ENTER), 
-    FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.click(findTestObject('Object Repository/Page_Enterprise Quoting/a_Configure'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Enterprise Quoting/input_Exact Width_p0s6o0OWIDTHctl00'), '30')
-
-WebUI.setText(findTestObject('Object Repository/Page_Enterprise Quoting/input_Exact Height_p0s7o0OHEIGHTctl00'), '31')
-
-WebUI.click(findTestObject('Object Repository/Page_Enterprise Quoting/span_White Exterior White Interior'))
-
-WebUI.click(findTestObject('Object Repository/Page_Enterprise Quoting/button_Continue'))
-
-WebUI.click(findTestObject('Object Repository/Page_Enterprise Quoting/button_Continue'))
-
-WebUI.click(findTestObject('Object Repository/Page_Enterprise Quoting/button_Continue'))
-
-WebUI.click(findTestObject('Object Repository/Page_Enterprise Quoting/button_Continue'))
-
-WebUI.click(findTestObject('Object Repository/Page_Enterprise Quoting/button_Continue'))
-
-WebUI.click(findTestObject('Object Repository/Page_Enterprise Quoting/button_Finish'))
-
-WebUI.click(findTestObject('Object Repository/Page_Enterprise Quoting/a_DQ002541-1  1 Line (s)'))
-
-WebUI.closeBrowser()
+WebUI.click(findTestObject('null'))
 
