@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select_ARE</name>
+   <tag></tag>
+   <elementGuidId>1af30d55-d951-433f-b4c8-4c18e7bcc6f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.container-element.layout-flow-vertical.CustomerSelectionButtonContainer > a.button.button-element.with-text > span.v-caption</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navigation-target']/div/div[2]/div/div[2]/div/div/div/div[2]/div/div/div/div[3]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>441886b1-ff97-45f6-9217-cc1f0c837a31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-caption</value>
+      <webElementGuid>62083c30-74c2-48fa-8fe7-08472f51948c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>evaluateText: 'Select', evaluateAttr: { title: '' }</value>
+      <webElementGuid>82dce353-360c-429d-8f03-02ca28fc4985</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>cd916d0e-5a48-4f6d-9b76-cdfdd9c871ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container-element layout-flow-horizontal RootContainer&quot;]/div[@class=&quot;navigation-target-parent&quot;]/div[@id=&quot;navigation-target&quot;]/div[@class=&quot;container-element layout-flow-vertical Overflow&quot;]/div[@class=&quot;container-element layout-flow-horizontal ContainerStretch&quot;]/div[@class=&quot;container-element layout-flow-vertical ContainerStretch&quot;]/div[@class=&quot;form-container evaluate-form-container ContainerStretch&quot;]/div[@class=&quot;evaluate-display-entity&quot;]/div[@class=&quot;display-entity-container&quot;]/div[@class=&quot;container-element layout-flow-vertical ContainerFixedContentHeight&quot;]/div[@class=&quot;list&quot;]/div[@class=&quot;list-items-container&quot;]/div[@class=&quot;list-item&quot;]/div[@class=&quot;container-element layout-flow-horizontal CustomerSelectionLineContainer&quot;]/div[@class=&quot;container-element layout-flow-vertical CustomerSelectionButtonContainer&quot;]/a[@class=&quot;button button-element with-text&quot;]/span[@class=&quot;v-caption&quot;]</value>
+      <webElementGuid>4024e110-b6bd-4f5e-9c0f-53d8ec1eb1b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/KINRO_TST/Page_Enterprise Quoting/iframe_Enjoy easier navigation and personal_ea9ac7</value>
+      <webElementGuid>2f83e7c7-8a26-40a9-9173-c67a28c8566b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navigation-target']/div/div[2]/div/div[2]/div/div/div/div[2]/div/div/div/div[3]/a/span</value>
+      <webElementGuid>480c813c-045b-4336-8742-d6d18fe9a2fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OHIO'])[1]/following::span[3]</value>
+      <webElementGuid>27ee95dd-9448-40c1-a359-7b136641ce34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=','])[2]/following::span[4]</value>
+      <webElementGuid>b0ca1cb2-c9cf-4b61-be00-2693e8ba6ca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[2]/preceding::span[1]</value>
+      <webElementGuid>7cb0d2e8-290a-4c90-a524-670bf1be6874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACC1'])[1]/preceding::span[2]</value>
+      <webElementGuid>d2c2f56e-6327-4c5c-a949-fb55980b0e92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select']/parent::*</value>
+      <webElementGuid>ec91b60e-dfc5-4cba-88fa-2cf877bb765d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[3]/a/span</value>
+      <webElementGuid>2a057a60-30c6-4071-a8a9-06b189b676e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Select' or . = 'Select')]</value>
+      <webElementGuid>356fb041-fcf4-480c-b08d-f6ee02149496</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
