@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream:Object Repository/KINRO_TST/Page_Infor CloudIdentities - Sign In/input_Password_pass.rs
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
@@ -105,3 +106,112 @@
       <webElementGuid>37db43d4-b05a-464a-8162-13f914c0d335</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Password_pass</name>
+   <tag></tag>
+   <elementGuidId>a769c8d3-0df0-43ec-8f63-db049e569830</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='pass']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pass</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0acee507-5e7d-4d0d-87c0-5c91c2cc8c44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>20e0569d-78e6-4865-b681-cf89d3294b7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>36</value>
+      <webElementGuid>296e4e96-ab49-4c9c-b34c-cee6864abaa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pass</value>
+      <webElementGuid>86d83734-b89f-44e7-aa67-9b9286eae70c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>pass</value>
+      <webElementGuid>c8284d2e-b4ea-4e53-a248-d0bb3f455cfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onblur</name>
+      <type>Main</type>
+      <value>validator()</value>
+      <webElementGuid>1d5a06dd-f6cd-475f-a7b2-3ab9ebb19101</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pass&quot;)</value>
+      <webElementGuid>d3ced08f-c340-44ba-9893-e7de0a4b651b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='pass']</value>
+      <webElementGuid>9e89f51b-1cce-45f4-b6ba-87394af46c87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='loginpage']/div[4]/input</value>
+      <webElementGuid>ee5c9597-b028-4ecf-8476-e3d70abc6b1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/input</value>
+      <webElementGuid>d88d49df-4d4d-4898-94c0-94510d5cb855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'password' and @id = 'pass' and @name = 'pass']</value>
+      <webElementGuid>da71d703-9c96-4edf-8afb-0cf5fde9b78f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
+>>>>>>> Stashed changes:Object Repository/Page_Infor CloudIdentities - Sign In/input_Password_pass.rs

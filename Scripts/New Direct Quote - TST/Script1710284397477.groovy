@@ -57,7 +57,11 @@ WebUI.click(findTestObject('Page_Enterprise Quoting/span_Select_ARE'))
 
 WebUI.click(findTestObject('Page_Enterprise Quoting/span_Add Items'))
 
-WebUI.setText(findTestObject('Page_Enterprise Quoting/input_DQ002541-1  0 Line (s)_v-field-value - Copy'), 'picture')
+WebUI.setText(findTestObject('Page_Enterprise Quoting/input_DQ002574-1  0 Line (s)_v-field-value'), 'picture')
 
-WebUI.sendKeys(findTestObject('Page_Enterprise Quoting/input_DQ002541-1  0 Line (s)_v-field-value - Copy'), Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('Page_Enterprise Quoting/input_DQ002574-1  0 Line (s)_v-field-value'), Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Page_Enterprise Quoting/Picture Window'))
+
+WebUI.click(findTestObject('Page_Enterprise Quoting/a_Configure'))
 

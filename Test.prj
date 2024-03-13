@@ -7,7 +7,11 @@
    <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+<<<<<<< Updated upstream
    <projectFileLocation>C:\Users\Seth Romanowski\source\repos\eq-test-suite\Test.prj</projectFileLocation>
+=======
+   <projectFileLocation>C:\Users\sromanowski\Katalon Studio\Test\Test.prj</projectFileLocation>
+>>>>>>> Stashed changes
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

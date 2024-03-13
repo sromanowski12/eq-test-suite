@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream:Object Repository/KINRO_TST/Page_Infor CloudIdentities - Sign In/input_Username_username.rs
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
@@ -105,3 +106,112 @@
       <webElementGuid>edca4dbd-c549-4a8d-877b-98be240101c6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Username_username</name>
+   <tag></tag>
+   <elementGuidId>0d417e71-0b82-4346-93fe-a03f321b87ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='username']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#username</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>edf77e1a-ad52-42a0-873e-de536024855c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>99b31fbd-cdbf-449d-8a9d-ed9dbd69c371</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>36</value>
+      <webElementGuid>f823386e-239a-48a6-8cc8-59565461365f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>502dd0fe-9b51-4447-8892-13790e5c1ccf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>40e3742d-c1fe-4e76-9f64-89fc3aaad042</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onblur</name>
+      <type>Main</type>
+      <value>validator()</value>
+      <webElementGuid>fdf67aa4-f7c4-4d9c-a4bb-d549e657e1b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;username&quot;)</value>
+      <webElementGuid>fc1deeeb-130e-4548-95b0-b9fb8bd0609b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='username']</value>
+      <webElementGuid>0b67c941-914b-4665-a468-a6bff541ba48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='loginpage']/div[2]/input</value>
+      <webElementGuid>f224101c-191a-466a-b0f7-8a5f905f8e4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>9fa85318-96a3-4046-96ca-28c32144e217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'username' and @id = 'username']</value>
+      <webElementGuid>83160079-5f5e-4bae-8caa-1c9b70feda2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
+>>>>>>> Stashed changes:Object Repository/Page_Infor CloudIdentities - Sign In/input_Username_username.rs

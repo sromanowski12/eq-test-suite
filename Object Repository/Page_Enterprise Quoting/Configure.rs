@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Configure</name>
+   <tag></tag>
+   <elementGuidId>14ad92f8-f4e9-4244-a1d8-140df2b0d6de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>//*[@id=&quot;interactive&quot;]/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@ref_element = 'Object Repository/Page_Enterprise Quoting/iframe_Enjoy easier navigation and personal_ea9ac7']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;interactive&quot;]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>interactive</value>
+      <webElementGuid>2a88e6a4-98f5-44ca-97b0-c3e209294151</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Enterprise Quoting/iframe_Enjoy easier navigation and personal_edb359</value>
+      <webElementGuid>4a2da276-1a63-4e4f-a7d4-99496b118955</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

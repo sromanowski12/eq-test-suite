@@ -6,16 +6,15 @@
    <elementGuidId>381a0860-7a9d-4510-83fd-08452c3f99cd</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>//*[(text() = 'Select' or . = 'Select') and @ref_element = 'Object Repository/Page_Enterprise Quoting/iframe_Enjoy easier navigation and personal_ea9ac7']</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;ProductCatalogMainBody&quot;]/div/div/div/div[2]/div/div/div/div[7]/div[2]/div/div[1]/div[1]/div[5]/div/div/div[2]/div[2]/a[6]</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value>div.container-element.layout-flow-vertical.CustomerSelectionButtonContainer > a.button.button-element.with-text > span.v-caption</value>
+         <value>//div[@id='ProductCatalogMainBody']/div/div/div/div[2]/div/div/div/div[7]/div[2]/div/div/div/div[5]/div/div/div[2]/div[2]/a[6]/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -25,8 +24,8 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>d3791a06-7395-46b7-b53f-17d3e7187f33</webElementGuid>
+      <value>span</value>
+      <webElementGuid>a9b93b96-7344-48ea-94bf-47ed86ac60fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +33,7 @@
       <name>class</name>
       <type>Main</type>
       <value>v-caption</value>
-      <webElementGuid>1967bab0-0866-4183-a0d8-bbadcdd08c1e</webElementGuid>
+      <webElementGuid>54fd9325-0191-4b5c-975c-80a604b041ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +41,7 @@
       <name>data-bind</name>
       <type>Main</type>
       <value>evaluateText: 'Select', evaluateAttr: { title: '' }</value>
-      <webElementGuid>ab7a8ecd-885a-4a45-a0a9-4230872b8feb</webElementGuid>
+      <webElementGuid>cc6824e9-5e6e-4658-af27-43e406f22d13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,79 +49,71 @@
       <name>text</name>
       <type>Main</type>
       <value>Select</value>
-      <webElementGuid>0747a9eb-7e25-419a-8802-5834b084315c</webElementGuid>
+      <webElementGuid>922984a2-940e-4043-b24e-d8da011c2f59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;container-element layout-flow-horizontal RootContainer&quot;]/div[@class=&quot;navigation-target-parent&quot;]/div[@id=&quot;navigation-target&quot;]/div[@class=&quot;container-element layout-flow-vertical Overflow&quot;]/div[@class=&quot;container-element layout-flow-horizontal ContainerStretch&quot;]/div[@class=&quot;container-element layout-flow-vertical ContainerStretch&quot;]/div[@class=&quot;form-container evaluate-form-container ContainerStretch&quot;]/div[@class=&quot;evaluate-display-entity&quot;]/div[@class=&quot;display-entity-container&quot;]/div[@class=&quot;container-element layout-flow-vertical ContainerFixedContentHeight&quot;]/div[@class=&quot;list&quot;]/div[@class=&quot;list-items-container&quot;]/div[@class=&quot;list-item&quot;]/div[@class=&quot;container-element layout-flow-horizontal CustomerSelectionLineContainer&quot;]/div[@class=&quot;container-element layout-flow-vertical CustomerSelectionButtonContainer&quot;]/a[@class=&quot;button button-element with-text&quot;]/span[@class=&quot;v-caption&quot;]</value>
-      <webElementGuid>3710452b-6137-40b6-bbec-545380088c9b</webElementGuid>
+      <value>id(&quot;ProductCatalogMainBody&quot;)/div[@class=&quot;evaluate-display-entity&quot;]/div[@class=&quot;display-entity-container&quot;]/div[@class=&quot;container-element layout-flow-vertical&quot;]/div[@class=&quot;form-container evaluate-form-container FormContainerStretchFlex&quot;]/div[@class=&quot;evaluate-display-entity&quot;]/div[@class=&quot;display-entity-container&quot;]/div[@class=&quot;container-element layout-flow-vertical&quot;]/div[@class=&quot;container-element layout-flow-horizontal ProductCatalogCategoriesFilterAndProductContainer&quot;]/div[@class=&quot;container-element layout-flow-horizontal ProductCatalogProductContainer&quot;]/div[@class=&quot;container-element layout-flow-vertical ProductListContainer&quot;]/div[@class=&quot;list SearchCardListProductCatalog&quot;]/div[@class=&quot;list-items-container&quot;]/div[@class=&quot;list-item&quot;]/div[@class=&quot;container-element layout-flow-vertical ProductCatalogCard&quot;]/div[@class=&quot;container-element layout-flow-vertical ProductCatalogBody&quot;]/div[@class=&quot;container-element layout-flow-horizontal ProductCatalogFieldGroup&quot;]/div[@class=&quot;container-element layout-flow-vertical&quot;]/a[@class=&quot;button button-element with-text&quot;]/span[@class=&quot;v-caption&quot;]</value>
+      <webElementGuid>28d138f3-79da-4ce2-b6a5-cd376e1112a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Page_Enterprise Quoting/iframe_Enjoy easier navigation and personal_ea9ac7</value>
-      <webElementGuid>ac5e1e37-2412-45b4-93d7-694e568299d7</webElementGuid>
+      <value>Object Repository/Page_Enterprise Quoting/iframe_Enjoy easier navigation and personal_edb359</value>
+      <webElementGuid>bd6fe9c4-2c4d-4030-a0f2-864a8a0bd4cb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='navigation-target']/div/div[2]/div/div[2]/div/div/div/div[2]/div/div/div/div[3]/a/span</value>
-      <webElementGuid>1fcf97b9-5a3d-4562-ac41-b47da6cdf353</webElementGuid>
+      <value>//div[@id='ProductCatalogMainBody']/div/div/div/div[2]/div/div/div/div[7]/div[2]/div/div/div/div[5]/div/div/div[2]/div[2]/a[6]/span</value>
+      <webElementGuid>61060aab-9d78-426b-9aed-56ac7c9b45c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='OHIO'])[1]/following::span[3]</value>
-      <webElementGuid>f7639b1c-6afb-4e33-8cb7-e8fff2f8ab7f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configure'])[10]/following::span[1]</value>
+      <webElementGuid>cb63f504-517b-4ff4-93a7-f699894c0742</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=','])[2]/following::span[4]</value>
-      <webElementGuid>696be557-0dd4-4695-a051-7b76a622bc1d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configure'])[9]/following::span[2]</value>
+      <webElementGuid>87822148-668b-41eb-a210-112529ebc9d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[2]/preceding::span[1]</value>
-      <webElementGuid>7792e263-6405-4de8-a9ee-259dda1c843e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Item'])[28]/preceding::span[1]</value>
+      <webElementGuid>b658e7d7-eb10-455b-91df-9df9b1841edc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACC1'])[1]/preceding::span[2]</value>
-      <webElementGuid>57247fa4-9fa9-42b2-8d5d-f9e656b2aa19</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Select']/parent::*</value>
-      <webElementGuid>58d8c115-9eb4-4d08-ae0e-8bba4c2d62d8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Item'])[29]/preceding::span[2]</value>
+      <webElementGuid>9d0f789d-06d8-4365-8928-41a9402b77e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/div/div[3]/a/span</value>
-      <webElementGuid>4ff1133c-14d1-4f31-a668-701a1d3a8f3f</webElementGuid>
+      <value>//div[5]/div/div/div[2]/div[2]/a[6]/span</value>
+      <webElementGuid>19a48600-0369-4cb8-854d-8143d5051808</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,6 +121,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Select' or . = 'Select')]</value>
-      <webElementGuid>ae94c1e0-c33c-4d28-b28d-ba37b9b7c3cf</webElementGuid>
+      <webElementGuid>afd71c26-597a-48a0-8a28-6c70dcf48cf2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
