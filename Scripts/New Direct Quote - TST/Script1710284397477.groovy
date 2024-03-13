@@ -25,7 +25,6 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://mingle-portal.inforcloudsuite.com/KINRO_TST?Identity=Mingle')
 
-<<<<<<< HEAD:Scripts/New Direct Quote - TST/Script1710284397477.groovy
 WebUI.click(findTestObject('Object Repository/KINRO_TST/Page_Infor CloudIdentities - Sign In/input_Username_username'))
 
 WebUI.setText(findTestObject('Object Repository/KINRO_TST/Page_Infor CloudIdentities - Sign In/input_Username_username'), 
@@ -42,7 +41,7 @@ WebUI.click(findTestObject('Object Repository/KINRO_TST/Page_Enterprise Quoting/
 WebUI.click(findTestObject('Object Repository/KINRO_TST/Page_Enterprise Quoting/span_Select Customer'))
 
 WebUI.click(findTestObject('Object Repository/KINRO_TST/Page_Enterprise Quoting/span_Select_ARE'))
-=======
+
 WebUI.setText(findTestObject('Page_Infor CloudIdentities - Sign In/input_Username_username'), 'sromanowski@lci1.com')
 
 WebUI.setEncryptedText(findTestObject('Page_Infor CloudIdentities - Sign In/input_Password_pass'), 'VCJAGvRPL32rAH9ErxswkbUpa0/gezy0')
@@ -54,7 +53,7 @@ WebUI.click(findTestObject('Page_Enterprise Quoting/a_New Quote'))
 WebUI.click(findTestObject('Object Repository/Page_Enterprise Quoting/span_Select Customer'))
 
 WebUI.click(findTestObject('Page_Enterprise Quoting/span_Select_ARE'))
->>>>>>> a60f061343ef491f8d4990c40d4e9528747149a7:Scripts/New Quote TST/Script1708134147787.groovy
+
 
 WebUI.click(findTestObject('Page_Enterprise Quoting/span_Add Items'))
 
