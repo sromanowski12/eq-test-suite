@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>iframe</value>
-      <webElementGuid>fa52428f-092c-4784-ac6b-232c50f215da</webElementGuid>
+      <webElementGuid>f7d2bf5c-44e9-4d62-a1cb-f71addac60db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>m-app-frame</value>
-      <webElementGuid>256c64f5-f4b3-46c6-a8e2-678b5dfe3114</webElementGuid>
+      <webElementGuid>446d74af-7b27-42bc-9e5f-e92be8960ced</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>cpqeq_29ab1a72-9fa8-40a4-b29f-f404b2a5e0c3</value>
-      <webElementGuid>ae51801a-8cf0-46fe-90ea-2948f7bb9f53</webElementGuid>
+      <webElementGuid>6245e1f2-ca4c-4e0c-9468-e55a3eec3f9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cpqks.inforcloudsuite.com:443/web/enterprisequoting/?DeliveryType=InforGo%2cWeb&amp;HybridCertified=1&amp;portalV2Certified=1&amp;LogicalId=lid%3A%2F%2Finfor.cpqeq.cpqeq&amp;inforThemeName=Light&amp;inforCurrentLocale=en-US&amp;inforCurrentLanguage=en-US&amp;infor10WorkspaceShell=1&amp;inforWorkspaceVersion=2024.02.00&amp;inforStyle=3.0&amp;inforTimeZone=(UTC-05%3A00)%20Eastern%20Time%20(US%20%26%20Canada)&amp;inforStdTimeZone=America%2FNew_York</value>
-      <webElementGuid>4ecc2c6c-20b7-4dac-97d4-dd55f100045e</webElementGuid>
+      <webElementGuid>e8b95a9c-b22d-4110-b19b-5d224c896eba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>onerror</name>
       <type>Main</type>
       <value>onAppFrameError(e);</value>
-      <webElementGuid>57cc872f-9ef3-41a5-9bb5-6a72267759d0</webElementGuid>
+      <webElementGuid>74f5593c-e698-4af2-85ca-ece65da2298d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>allow</name>
       <type>Main</type>
       <value>geolocation; microphone; camera;</value>
-      <webElementGuid>62c16756-da88-487d-8483-bfbe2be06df8</webElementGuid>
+      <webElementGuid>ab5af582-8b9c-4694-b3ae-89ac678749de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;appPageKey0&quot;)/iframe[@class=&quot;m-app-frame&quot;]</value>
-      <webElementGuid>0807146e-628d-403c-ba08-b9032aaccfb8</webElementGuid>
+      <webElementGuid>be55fd22-2fe4-4c3b-bce0-922f037c8d01</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//iframe[@name='cpqeq_29ab1a72-9fa8-40a4-b29f-f404b2a5e0c3']</value>
-      <webElementGuid>76880c19-f8e4-44f6-9f5a-b4505dbbe9eb</webElementGuid>
+      <webElementGuid>eca880a0-c9f1-4b23-bd6c-69aee472e815</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='appPageKey0']/iframe</value>
-      <webElementGuid>4540e725-b32a-4028-ad07-86d8799df4c1</webElementGuid>
+      <webElementGuid>8ef87155-2545-4039-8eb0-4dc5bc95d8bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//iframe</value>
-      <webElementGuid>9bda1a83-3cd4-40ff-8464-48ed846b66b1</webElementGuid>
+      <webElementGuid>6d508f13-8dbe-49e4-8f8d-20fb62a941d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//iframe[@name = 'cpqeq_29ab1a72-9fa8-40a4-b29f-f404b2a5e0c3' and @src = 'https://cpqks.inforcloudsuite.com:443/web/enterprisequoting/?DeliveryType=InforGo%2cWeb&amp;HybridCertified=1&amp;portalV2Certified=1&amp;LogicalId=lid%3A%2F%2Finfor.cpqeq.cpqeq&amp;inforThemeName=Light&amp;inforCurrentLocale=en-US&amp;inforCurrentLanguage=en-US&amp;infor10WorkspaceShell=1&amp;inforWorkspaceVersion=2024.02.00&amp;inforStyle=3.0&amp;inforTimeZone=(UTC-05%3A00)%20Eastern%20Time%20(US%20%26%20Canada)&amp;inforStdTimeZone=America%2FNew_York']</value>
-      <webElementGuid>d7017d7f-07a2-425d-939d-cc978826e407</webElementGuid>
+      <webElementGuid>31cb4d28-864b-406f-8806-abf239facf09</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
