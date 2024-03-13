@@ -4,9 +4,10 @@
    <name>Test</name>
    <tag></tag>
    <UUID>fadfa094-d781-455b-b4bf-009a1b69c604</UUID>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\Seth Romanowski\source\repos\eq-test-suite\Test.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
